@@ -17,8 +17,8 @@ Model prediction: dog  ✓
 ```
 
 ![Sample prediction](assets/sample_prediction.png)
-> *<img width="366" height="113" alt="image" src="https://github.com/user-attachments/assets/0f809283-a76d-4905-991d-61c495c263b3" />
-*
+> <img width="366" height="113" alt="image" src="https://github.com/user-attachments/assets/0f809283-a76d-4905-991d-61c495c263b3" />
+
 
 ---
 
